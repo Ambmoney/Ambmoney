@@ -1,5 +1,7 @@
+Hey, I’m Lex
 
-<h1>Hi I'm Lex!</h1>
-<p> I'm a designer developer</p>
-<p>I love to create and I'm looking forword to bringing some fun and exciting projects to the platform</p>
-<p>Feel free to reach out and I'll do the same. </p>
+part developer, part creative, and 100% caffeine-powered tech enthusiast.
+
+I live for building solutions (and sneaking in playtime with my dog). 
+Can’t wait to see what kind of awesome we can create together!
+
